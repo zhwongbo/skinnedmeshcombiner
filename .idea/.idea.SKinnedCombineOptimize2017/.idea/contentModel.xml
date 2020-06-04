@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\zhaowangbao\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\zhaowangbao\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_SKinnedCombineOptimize2017.-2122375187.00" t="ExcludeRecursive" />
+    <e p="D:\U3dProject\SKinnedCombineOptimize2017" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets\GameAssets" t="Include">
+        <e p="Shaders" t="Include">
+          <e p="CGIncludes" t="Include">
+            <e p="PJAQ.cginc" t="Include" />
+          </e>
+          <e p="ToonV5.shader" t="Include" />
+        </e>
+      </e>
+      <e p="Assets\Scripts" t="Include">
+        <e p="BlitTextureCombiner.cs" t="Include" />
+        <e p="LuaFramework" t="Include">
+          <e p="Blit.shader" t="Include" />
+          <e p="Scripts" t="Include">
+            <e p="CharacterCombine" t="Include">
+              <e p="StringHolder.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="PackTextureCombiner.cs" t="Include" />
+        <e p="RawCominer" t="Include">
+          <e p="mergeTxMgr.cs" t="Include" />
+          <e p="singletonProvider.cs" t="Include" />
+          <e p="SSTimer.cs" t="Include" />
+        </e>
+        <e p="RawTextureCombiner.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="SKinnedCombineOptimize2017.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
